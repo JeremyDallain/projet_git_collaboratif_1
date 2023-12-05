@@ -1,2 +1,2 @@
-hello world
-Salut les squizzos !
+hello squizzos
+Salut les world !
