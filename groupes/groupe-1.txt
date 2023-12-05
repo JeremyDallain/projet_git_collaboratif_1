@@ -1,4 +1,4 @@
-Les conflits de canard au Porto
+Les conflits de canard au Porto <div class='canard'>Foie Gras</div>
 Coucou 2
 Git m*rde
 coucou alexis
